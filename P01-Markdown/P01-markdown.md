@@ -12,13 +12,10 @@ Fecha
   <img src="img/images.jfif" alt="Logo" width="300">
 </div>
 
-- [Nombre de la practica de clase](#nombre-de-la-practica-de-clase)
-  - [Ciclo y modulo](#ciclo-y-modulo)
-    - [Nombre y apellidos](#nombre-y-apellidos)
-  - [Practica](#practica)
-  - [Biografía](#biografía)
-  - [Conclusión](#conclusión)
-  - [Lista](#lista)
+* [Practica](#practica)
+* [Biografía](#biografía)
+* [Conclusión](#conclusión)
+* [Lista](#lista)
 
 <div style="page-break-after: always"></div>
 
@@ -34,3 +31,10 @@ Texto de la conclusión
 ## Lista
  - [x] Tarea 1
  - [x] Tarea 1
+  
+## Table
+
+| Alumno    | Grupo  | Edad |
+| --------- | ------ | ---- |
+| Alejandro | ASIR 1 | 19   |
+| Alexandre | ASIR 1 | 22   |
