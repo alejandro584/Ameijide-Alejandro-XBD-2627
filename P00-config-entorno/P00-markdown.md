@@ -19,7 +19,7 @@
   <img src="img/images.jfif" alt="Logo" width="300">
 </div>
 
-## Indice
+# Indice
 <!-- omit in toc -->
 -
   - [1. Instalación de git](#1-instalación-de-git)
@@ -37,9 +37,9 @@
 
 <div style="page-break-after: always"></div>
 
-## 1. Instalación de git
+# 1. Instalación de git
 
-### 1.1 Descargar git
+## 1.1 Descargar git
 
 Primero y antes de nada tenemos que instalar git.
 
@@ -47,7 +47,7 @@ Para poder utilizar GitHub Desktop correctamente es necesario tener Git instalad
 
 ![Captura 1](<img/Captura de pantalla 2026-09-17 214014.png>)
 
-### 1.2 Instalar git
+## 1.2 Instalar git
 
 Durante la instalación aparecerán diferentes opciones de configuración. En caso de no conocer alguna de ellas, podemos mantener las opciones que vienen seleccionadas por defecto.
 
@@ -55,7 +55,7 @@ Una vez realizada la configuración, el instalador se encargará de copiar todos
 
 ![Captura 2](<img/Captura de pantalla 2026-09-17 214102.png>)
 
-### 1.3 Terminar la instalación
+## 1.3 Terminar la instalación
 
 Ahora ya configurada la instalacion solo le daremos a finalizar y esperaremos a que se instale en el equipo
 
@@ -65,13 +65,13 @@ Una vez finalizada la instalación, Git ya estará disponible en nuestro ordenad
 
 <div style="page-break-after: always"></div>
 
-## 2. Instalacion de Github Desktop
+# 2. Instalacion de Github Desktop
 
 > Primero tendriamos que iniciar sesion con nuestra cuenta en *Github*
 
 ![alt text](<img/Captura de pantalla 2026-09-17 214601.png>)
 
-### 2.1 Instalación
+## 2.1 Instalación
 
 Una vez descargado el instalador, lo ejecutamos y esperamos a que termine el proceso. Dependiendo del sistema operativo y de la configuración del equipo, la instalación puede tardar unos minutos.
 
@@ -81,7 +81,7 @@ Cuando finalice, podremos abrir GitHub Desktop y comenzar con la configuración 
 
 ![Captura 4](<img/Captura de pantalla 2026-09-17 214739.png>)
 
-### 2.2 Cuenta Github
+## 2.2 Cuenta Github
 
 Ahora vinculamos nuestra cuenta de Github donde esta nuesto repositorio con github desktop
 
@@ -89,13 +89,13 @@ Esta conexión permitirá que GitHub Desktop pueda comunicarse con nuestra cuent
 
 ![Captura 5](<img/Captura de pantalla 2026-09-17 214838.png>)
 
-### 2.3 Configurar Github desktop
+## 2.3 Configurar Github desktop
 
 Cada modificación que guardemos mediante un commit quedará asociada al usuario configurado. Por este motivo, es importante comprobar que el nombre y el correo introducidos son los correctos.
 
 ![Captura 6](<img/Captura de pantalla 2026-09-17 214919.png>)
 
-### 2.4 Clonar repositorio
+## 2.4 Clonar repositorio
 
 Ahora clonamos el repositorio, este proceso solo se hace una unica vez.
 
@@ -105,7 +105,7 @@ De esta forma podremos trabajar con los archivos de manera local y realizar toda
 
 ![Captura 7](<img/Captura de pantalla 2026-09-17 214953.png>)
 
-### 2.5 URL  y clonar
+## 2.5 URL  y clonar
 
 En este apartado debemos indicar la dirección del repositorio que queremos clonar y seleccionar la carpeta donde queremos guardar el proyecto.
 
@@ -117,7 +117,7 @@ Una vez indicada la URL y la ubicación, comenzaremos el proceso de clonación. 
 
 <div style="page-break-after: always"></div>
 
-## 3. Extensiones visual studio code
+# 3. Extensiones visual studio code
 
 En caso de no tenerlo instalado, lo tendriamos que instalar. En mi caso ya lo tenia instalado
 
@@ -126,7 +126,7 @@ Ahora tendremos que añadirle las extensiones las cuales, son las que se muestra
 ![alt text](<img/Captura de pantalla 2026-10-04 230501 (2).png>)
 
 
-## 4. Conclusión
+# 4. Conclusión
 Ahora indicamos que nos funciona y podemos trabajar con nuestro repositorio
 
  - [x] Esta nuestro repositorio clonado
