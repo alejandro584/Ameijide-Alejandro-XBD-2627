@@ -1,3 +1,6 @@
+
+<!-- omit in toc -->
+
 <div align="right">
 08/10/2026
 </div>
@@ -16,9 +19,9 @@
   <img src="img/images.jfif" alt="Logo" width="300">
 </div>
 
-- [P00 Configuracion entorno](#p00-configuracion-entorno)
-  - [1º ASIR  Xestion de bases de datos](#1º-asir--xestion-de-bases-de-datos)
-    - [Alejandro Ameijide Fuentes](#alejandro-ameijide-fuentes)
+## Indice
+<!-- omit in toc -->
+-
   - [1. Instalación de git](#1-instalación-de-git)
     - [1.1 Descargar git](#11-descargar-git)
     - [1.2 Instalar git](#12-instalar-git)
@@ -29,7 +32,8 @@
     - [2.3 Configurar Github desktop](#23-configurar-github-desktop)
     - [2.4 Clonar repositorio](#24-clonar-repositorio)
     - [2.5 URL  y clonar](#25-url--y-clonar)
-  - [3. Conclusión](#3-conclusión)
+  - [3. Extensiones visual estudio code](#3-extensiones-visual-studio-code)
+  - [4. Conclusión](#4-conclusión)
 
 <div style="page-break-after: always"></div>
 
@@ -113,10 +117,20 @@ Una vez indicada la URL y la ubicación, comenzaremos el proceso de clonación. 
 
 <div style="page-break-after: always"></div>
 
-## 3. Conclusión
+## 3. Extensiones visual studio code
+
+En caso de no tenerlo instalado, lo tendriamos que instalar. En mi caso ya lo tenia instalado
+
+Ahora tendremos que añadirle las extensiones las cuales, son las que se muestran en las imagenes
+
+![alt text](<img/Captura de pantalla 2026-10-04 230501 (2).png>)
+
+
+## 4. Conclusión
 Ahora indicamos que nos funciona y podemos trabajar con nuestro repositorio
 
  - [x] Esta nuestro repositorio clonado
  - [x] Github desktop detecta los cambios que realizamos en el
  - [x] Una vez subimos los cambios, se suben correctamente a Github
+ - [x] Extensiones visual studio code
   
