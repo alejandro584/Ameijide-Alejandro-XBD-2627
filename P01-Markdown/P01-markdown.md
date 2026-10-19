@@ -8,7 +8,7 @@ Fecha
 
 ### Nombre y apellidos 
 
-<div align="center">
+<div href="https://iespenanovo.com/" align="center">
   <img src="img/images.jfif" alt="Logo" width="300">
 </div>
 
